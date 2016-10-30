@@ -1,0 +1,6 @@
+{
+  "name": "Lukas.plankensteiner.GitHub.io",
+  "tagline": "",
+  "body": "<!DOCTYPE html>\r\n<html>\r\n <head> \r\n    <title>About my great hobby</title> \r\n </head>\r\n<body>\r\n<a href=\"https://www.google.at/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiik-DvloLQAhWHWxQKHREJBIwQjRwIBw&url=http%3A%2F%2Fwww.carpicker.net%2Fbikes%2Fktm%2F125%2520SX&psig=AFQjCNHSTvUSP_K2AgMM1Tnl9CRQ1R9sbg&ust=1477904879718949><img src=\"http://images.moto.it/images/286341/674x/ktm-sx-125-2015-01.jpg></a>\r\n<table border=\"1\">\r\n     <tr>\r\n       <td>Motor</td>\r\n       <td>Modell</td>\r\n       <td>Fahrwerk</td>\r\n     </tr>\r\n     <tr>\r\n       <td>125ccm</td>\r\n       <td>KTM 125 sx</td>\r\n       <td>WP Suspension</td>\r\n     </tr>\r\n</table>\r\n   <ul>\r\n      <li>Name: Lukas Plankensteiner</li>\r\n      <li>Wohnort: Schwarzach</li>\r\n      <li>Hobby: Motocross</li>\r\n      <li>Schule: BORG Egg</li>\r\n   </ul>\r\n</body>\r\n</html>\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
