@@ -4,6 +4,10 @@
   background-color: black;
 }
 
+#header h1{
+  color:orange;
+}
+
 .left{
   width: 30%;
   background-color: orange;
@@ -15,3 +19,4 @@
   background-color: orange;
   float: right;
 }
+
