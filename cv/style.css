@@ -6,10 +6,10 @@
 
 .left{
   width: 30%;
-  background-color: green;
+  background-color: black;
 }
 
 .right{
   width: 70%;
-  background-color: black;
+  background-color: orange;
 }
