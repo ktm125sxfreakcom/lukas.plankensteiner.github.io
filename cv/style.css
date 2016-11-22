@@ -7,9 +7,11 @@
 .left{
   width: 30%;
   background-color: black;
+  float: left;
 }
 
 .right{
   width: 70%;
   background-color: orange;
+  float: right;
 }
