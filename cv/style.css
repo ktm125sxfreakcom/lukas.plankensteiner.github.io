@@ -20,7 +20,7 @@
   float: right;
 }
 
-div p p img{
-  width:60px;
+.smaller-image {
+  width:200px;
   height: auto,
 }
